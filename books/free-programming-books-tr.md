@@ -1,6 +1,6 @@
 ### İçindekiler
 
-* [Algoritma ve Veri Yapıları](#algoritma-ve-veri-yapilari)
+* [Algoritma ve Veri Yapıları](#algoritma-ve-veri-yapıları)
 * [Android](#android)
 * [C](#c)
 * [C++](#cpp)
@@ -9,7 +9,7 @@
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
-* [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
+* [Güvenlik ve Gizlilik](#güvenlik-ve-gizlilik)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [iOS](#ios)

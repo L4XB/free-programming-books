@@ -39,7 +39,6 @@
     * [Golang](#golang)
     * [Haskell](#haskell)
     * [HTML and CSS](#html-and-css)
-    * [HTTP](#http)
     * [iOS](#ios)
     * [Java](#java)
     * [JavaScript](#javascript)

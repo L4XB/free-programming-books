@@ -1,9 +1,9 @@
 ### Index
 
 * [Language Agnostic](#language-agnostic)
-    * [Právo](#pravo)
-    * [Všeobecné programovanie](#vseobecne-programovanie)
-* [Operačné systémy](#operacne-systemy)
+    * [Právo](#právo)
+    * [Všeobecné programovanie](#všeobecné-programovanie)
+* [Operačné systémy](#operačné-systémy)
 * [Python](#python)
     * [Django](#django)
 

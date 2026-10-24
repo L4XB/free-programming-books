@@ -2,7 +2,6 @@
 
 * [Algorithms](#algorithms)
 * [C](#c)
-* [C++](#cpp)
 * [Computer Science](#computer-science)
 * [Data Science](#data-science)
 * [Git and Github](#git-and-github)

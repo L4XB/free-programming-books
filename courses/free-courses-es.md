@@ -18,7 +18,6 @@
 * [Redes](#redes)
 * [Redes de telefonía](#redes-de-telefon&#x00ED;a)
 * [Robótica](#rob&#x00F3;tica)
-* [SAP](#Sap)
 * [Seguridad](#seguridad)
 * [Servidores](#servidores)
 * [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos--cms)

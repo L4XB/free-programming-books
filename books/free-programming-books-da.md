@@ -3,7 +3,6 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [Delphi](#delphi)
 * [Java](#java)
 * [Pascal](#pascal)
 

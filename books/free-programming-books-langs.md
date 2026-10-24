@@ -76,9 +76,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Haxe](#haxe)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
-    * [Tailwindcss](#tailwindcss)
-* [HTTP](#http)
-* [HTTPS](#https)
 * [Icon](#icon)
 * [iOS](#ios)
 * [IoT](#iot)
@@ -646,7 +643,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Coq
 
-> :information_source: (renamed) see [Rocq Prover](#roq-prover)
+> :information_source: (renamed) see [Rocq Prover](#rocq-prover)
 
 
 ### Crystal

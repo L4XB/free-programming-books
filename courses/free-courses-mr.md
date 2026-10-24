@@ -6,7 +6,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [Data Science](#datascience)
+* [Data Science](#data-science)
 * [Databases](#databases)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)

@@ -10,7 +10,7 @@
 * [Python](#python)
 * [SQL](#sql)
 * [WordPress](#wordpress)
-* [Web Development](#web_development)
+* [Web Development](#web-development)
 
 
 ### C
