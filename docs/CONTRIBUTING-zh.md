@@ -219,7 +219,7 @@
 - 使用逗号「，」来分隔作者清单中的每个项目。
 - 您可以使用「`et al.`」来缩短作者清单。
 - 我们不允许为创作者提供链接。
-- 对于编译或混音作品，「创作者」可能需要描述。例如，「Go​​alKicker」或「RIP Tutorial」书籍被标记为「`Compiled from StackOverflow Documentation`」。
+- 对于编译或混音作品，「创作者」可能需要描述。例如，「GoalKicker」或「RIP Tutorial」书籍被标记为「`Compiled from StackOverflow Documentation`」。
 
 
 ##### 平台及接入注意事项

@@ -8,7 +8,7 @@
 
 **`Free-Programming-Books` में आपका स्वागत है!**
 
-हम नए योगदानकर्ताओं का स्वागत करते हैं; यहां तक ​​कि उन लोगों के लिए जो GitHub पर अपना पहला Pull Request (PR) करते हैं। यदि आप उनमें से एक हैं, तो यहां कुछ संसाधन हैं जो मदद कर सकते हैं:
+हम नए योगदानकर्ताओं का स्वागत करते हैं; यहां तक कि उन लोगों के लिए जो GitHub पर अपना पहला Pull Request (PR) करते हैं। यदि आप उनमें से एक हैं, तो यहां कुछ संसाधन हैं जो मदद कर सकते हैं:
 
 * [पुल अनुरोध के बारे में](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
 * [पुल अनुरोध बनाना](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
